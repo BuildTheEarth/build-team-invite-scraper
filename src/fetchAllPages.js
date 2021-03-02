@@ -4,7 +4,7 @@ const cheerio = require("cheerio")
 
 /**
  * @param {string} url
- * @returns {string[]}
+ * @returns {Promise<string[]>}
  */
 module.exports = async function fetchAllPages(url) {
     const firstPage = await fetch(url).then(res => res.text())
