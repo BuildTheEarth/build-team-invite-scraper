@@ -1,6 +1,6 @@
 {
     "name": "build-team-invite-scraper",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "A scraper of build team invites for use on the main Discord bot.",
     "main": "src/index.js",
     "repository": "BuildTheEarth/build-team-invite-scraper",
