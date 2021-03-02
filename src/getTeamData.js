@@ -1,3 +1,4 @@
+const cheerio = require("cheerio")
 const normalizeName = require("./normalizeName")
 
 /**
