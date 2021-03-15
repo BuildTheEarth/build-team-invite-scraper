@@ -4,7 +4,7 @@ A scraper of build team invites for use on the main Discord bot. You probably wo
 
 ## Installation and Usage
 
-**Only use this script if entirely necessary. Check [`data.yml`](data.yml) for the result as executed on March 1st, 2021.**
+**Only use this script if entirely necessary. Check [`data.yml`](data.yml) for the result as executed on March 14th, 2021.**
 
     $ git clone BuildTheEarth/build-team-invite-scraper
     $ node build-team-invite-scraper/src/index.js
